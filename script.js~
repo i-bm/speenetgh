@@ -1,0 +1,10 @@
+var x=1;
+var y=3;
+var sum=0;
+
+function hello(){
+	
+	sum = x + y;
+	document.write(sum);
+	
+	}
